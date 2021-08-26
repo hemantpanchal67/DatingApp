@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hemant\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hemant\\.nuget\\packages"
+    ]
+  }
+}
