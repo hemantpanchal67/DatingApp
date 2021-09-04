@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hemant\\Personal\\Learning\\Udemy\\AngularCore\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Hemant\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Hemant\\Personal\\Learning\\Udemy\\AngularCore\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Hemant\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hemant\\Personal\\Learning\\Udemy\\AngularCore\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Hemant\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Hemant\\Personal\\Learning\\Udemy\\AngularCore\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Hemant\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Hemant\\.nuget\\packages\\",
-        "outputPath": "D:\\Hemant\\Personal\\Learning\\Udemy\\AngularCore\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Hemant\\OneDrive\\Documents\\GitHub\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hemant\\AppData\\Roaming\\NuGet\\NuGet.Config",
